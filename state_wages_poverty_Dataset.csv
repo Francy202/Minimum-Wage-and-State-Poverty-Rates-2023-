@@ -1,0 +1,53 @@
+state,state_abbr,region,min_wage_2023,unemployment_rate_2023,cost_of_living_index_2023,median_household_income_2023,population_2023,num_below_poverty_line_2023,notes_min_wage
+Alabama,AL,South,$7.25,2.5%,89.3,$58241,5108468,859824,No state minimum wage law
+Alaska,AK,West,$13.75,4.2,124.1,$82016,733583,72724,
+Arizona,AZ,West,$13.85,3.9%,103.7,$72581,7431344,976737,
+Arkansas,AR,South,$11.00,3.3%,88.8,$56335,3045637,524491,
+California,CA,West,$15.50,4.8%,142.2,$84097,39029342,4993567,
+Colorado,CO,West,13.65,3.2%,105.6,$87598,5839926,560633,
+Connecticut,CT,Northeast,$15.00,3.8%,110.5,$90213,3626205,379592,Increased to $15 Jun 2023
+Delaware,DE,South,$11.75,4.0%,103.2,$79325,1017551,115902,
+Florida,FL,South,$12.00,2.9%,102.3,$67688,22610726,3127884,
+Georgia,GA,South,$5.15,3.2%,93.4,$71355,10912876,1673773,Below federal floor; $7.25 applies
+Hawaii,HI,West,$12.00,3.0%,193.3,$82199,1440196,133938,
+Idaho,ID,West,$7.25,3.1%,98.6,$65769,1939033,216769,
+Illinois,IL,Midwest,$13.00,4.5%,95.2,$74229,12582032,1509844,
+Indiana,IN,Midwest,7.25,3.3%,91.4,$65893,6833037,896548,Missing $ sign
+Iowa,IA,Midwest,$7.25,2.9%,90.1,$66813,3200517,352057,
+Kansas,KS,Midwest,$7.25,2.7%,86.5,$66332,2937150,352458,
+Kentucky,KY,South,$7.25,4.2%,91.0,$58644,4526154,779299,
+Louisiana,LA,South,$7.25,3.7%,93.3,$57852,4590241,878426,No state minimum wage law
+Maine,ME,Northeast,$13.80,2.9%,111.4,$72614,1385340,153772,
+Maryland,MD,South,$13.25,2.1%,120.7,$98461,6177224,574581,
+Massachusetts,MA,Northeast,$15.00,3.4%,148.4,$89026,6981974,692415,
+Michigan,MI,Midwest,$10.10,3.9%,94.2,$67458,10034113,1475010,
+Minnesota,MN,Midwest,$10.59,2.8%,99.5,$84313,5717184,571719,Large employer rate
+Mississippi,MS,South,$7.25,3.2%,83.3,$52985,2940057,596831,No state minimum wage law
+Missouri,MO,Midwest,$12.00,3.0%,92.1,$65920,6177957,790778,
+Montana,MT,West,$9.95,2.9%,103.2,$62141,1122867,146973,
+Nebraska,NE,Midwest,$10.50,2.3%,91.0,$71772,1961504,229296,
+Nevada,NV,West,$11.25,5.1%,105.2,$66434,3143991,408719,
+New Hampshire,NH,Northeast,$7.25,2.2%,114.9,$90845,1395231,104642,
+New Jersey,NJ,Northeast,$14.13,4.4%,120.3,$97126,9261699,926170,
+New Mexico,NM,West,$12.00,3.8%,96.9,$58722,2113344,393783,
+New York,NY,Northeast,$14.20,4.2%,148.2,$81386,19677151,2756801,NYC rate higher
+North Carolina,NC,South,$7.25,3.5%,96.5,$65070,10698973,1604846,
+North Dakota,ND,Midwest,$7.25,1.9%,98.6,$71769,779261,78705,
+Ohio,OH,Midwest,$10.10,3.5%,92.6,$62689,11756058,1645848,
+Oklahoma,OK,South,7.25,3.2%,87.5,$59846,4019800,643168,Missing $ sign
+Oregon,OR,West,$13.50,3.7%,113.9,$73487,4233358,507003,Standard rate
+Pennsylvania,PA,Northeast,$7.25,3.4%,101.7,$73170,12972008,1556641,
+Rhode Island,RI,Northeast,$13.00,3.0%,111.3,$74982,1093734,109373,
+South Carolina,SC,South,$7.25,3.0%,97.2,$63623,5282634,739569,No state minimum wage law
+South Dakota,SD,Midwest,$10.80,2.0%,98.5,$66143,909824,100081,
+Tennessee,TN,South,7.25,3.3%,91.0,$64035,7051339,1057701,No state minimum wage law
+Texas,TX,South,$7.25,3.9%,95.4,$67321,30029572,4234269,
+Utah,UT,West,$7.25,2.6%,103.4,$79449,3380800,270464,
+Vermont,VT,Northeast,$13.18,2.0%,114.0,$74014,647464,71221,
+Virginia,VA,South,$12.00,2.9%,103.6,$80963,8683619,868362,
+Washington,WA,West,$15.74,4.1%,116.5,$87648,7785786,700721,
+West Virginia,WV,South,$8.75,3.9%,88.1,$52480,1775156,319528,
+Wisconsin,WI,Midwest,$7.25,3.0%,95.4,$70996,5892539,530329,
+Wyoming,WY,West,$5.15,2.9%,99.7,$72495,581075,64799,Below federal floor; $7.25 applies
+District of Columbia,DC,South,$17.00,4.9%,159.0,$101722,671803,114206,DUPLICATE
+District of Columbia,DC,South,$17.00,4.9%,159.0,$101722,671803,114206,DUPLICATE
